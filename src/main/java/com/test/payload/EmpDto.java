@@ -27,6 +27,7 @@ public class EmpDto {
 	private int phone;
 	private Date doj = new Date();
 	private int salary;
+	
 	public long getEmpID() {
 		return empID;
 	}
